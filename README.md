@@ -24,7 +24,7 @@ The client tells you when a new version is out under **Help → Check for Update
 - **End a game the right way.** When the game is over, both players agree the result and the clients swap hand keys automatically — so each side keeps a log that replays with every card showing, and the result goes into the statistics. Perfect for tournaments and reviews.
 - **No Java to install, on every system.** Built in, for Windows, macOS (Intel and Apple Silicon) and Linux. Download, unzip, run.
 - **Watch it, and tell its story.** Replays with a replay bar and Ira mode, the Chronicle written for you turn by turn, full statistics, and one Reference window for every rule and card (Ctrl+/).
-- **Fair play you can trust.** Your hand is sealed with a key the game makes and keeps (no passwords to crack), cards and Corruption tiles stay hidden from the other computer, and both of the serious exploits from V8 are closed.
+- **Fair play, locked down.** Both serious exploits from V8 are closed — and a tampered client still can't cheat you: dice and draws can't be steered, forged Corruption tiles are caught, your hand is sealed with a key only you hold, and anything a dishonest copy sends is refused and logged.
 
 ---
 
