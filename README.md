@@ -10,17 +10,21 @@ Edition is a nod to Rafamir: the first edition with his *Treason of Isengard*.
 
 ### ➜ **[Download the latest version](../../releases/latest)**
 
-On the releases page, pick the file for your system — unzip and run, **Java is included**,
-nothing else to install:
-
-- **`WOTR-v*.zip`** — all platforms in one (Windows, Mac, Linux). Largest, but works anywhere.
-- **`WOTR-v*-windows.zip`** — Windows only
-- **`WOTR-v*-mac.zip`** — macOS only (Intel and Apple Silicon)
-- **`WOTR-v*-linux.zip`** — Linux (x64) only
-
-Your old logs and saved games load exactly as before.
+Unzip and run — **Java is included** (Windows, macOS Intel and Apple Silicon, Linux x64),
+nothing else to install. One download, works on every system. Your old logs and saved games
+load exactly as before.
 
 The client tells you when a new version is out under **Help → Check for Updates**.
+
+---
+
+## The big ones
+
+- **All three expansions, one system.** LOME, WOME and KOME together or alone, every special die handled for you, each in a floating overlay that stays out of your way.
+- **End a game the right way.** When the game is over, both players agree the result and the clients swap hand keys automatically — so each side keeps a log that replays with every card showing, and the result goes into the statistics. Perfect for tournaments and reviews.
+- **No Java to install, on every system.** Built in, for Windows, macOS (Intel and Apple Silicon) and Linux. Download, unzip, run.
+- **Watch it, and tell its story.** Replays with a replay bar and Ira mode, the Chronicle written for you turn by turn, full statistics, and one Reference window for every rule and card (Ctrl+/).
+- **Your hand is safe.** A strong key the game makes and remembers (no passwords to crack), and cards and Corruption tiles sealed from the other computer.
 
 ---
 
