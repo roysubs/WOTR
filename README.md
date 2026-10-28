@@ -20,7 +20,7 @@ The client tells you when a new version is out under **Help → Check for Update
 
 ## The big ones
 
-- **All three expansions, one system.** LOME, WOME and KOME together or alone, every special die handled for you, each in a floating overlay that stays out of your way.
+- **All three expansions, one system.** Play LOME, WOME and KOME alone, in pairs, or all three at once — every special die handled for you, each in a floating overlay that stays out of your way.
 - **End a game the right way.** When the game is over, both players agree the result and the clients swap hand keys automatically — so each side keeps a log that replays with every card showing, and the result goes into the statistics. Perfect for tournaments and reviews.
 - **No Java to install, on every system.** Built in, for Windows, macOS (Intel and Apple Silicon) and Linux. Download, unzip, run.
 - **Watch it, and tell its story.** Replays with a replay bar and Ira mode, the Chronicle written for you turn by turn, full statistics, and one Reference window for every rule and card (Ctrl+/).
@@ -30,7 +30,7 @@ The client tells you when a new version is out under **Help → Check for Update
 
 ## Kings, Warriors and Lords of Middle-earth
 - Every expansion has a floating overlay that never gets in your way, with everything you need to manage it, alone or together
-- Expansion cards in small windows: drag anywhere, fold, resize; all 16 table slots stay free
+- Expansion cards in small windows: drag anywhere, fold, resize; all 16 table slots stay free (up from 14)
 - Kings card: Sovereigns' Level and Resistance, awakened silver, corrupted black, a square per Corruption tile
 - Factions card: each Faction asleep, ready, in play (with its figures) or out, from the board
 - Keepers and Minions strip: each special die and Elven Ring as it lies
@@ -124,8 +124,8 @@ The client tells you when a new version is out under **Help → Check for Update
 - Hand tabs on one row, in their side's colour; red over the hand limit
 
 ## The same on Windows, macOS and Linux
-- Java included for Windows, macOS (Intel and Apple Silicon), Linux (x64 and ARM): nothing to install
-- Runs on Java 8 and every later version
+- No more Java Hell — no hunting for the right Java version: it is built in, so it just works, every time
+- Also playable in German, Italian and Russian — more language support on the way
 - Sharp on high-resolution screens and Windows display scaling
 - Full macOS support: Mac menu bar, Dock name and icon, Mac keys
 - Linux: a launcher and an applications-menu entry
