@@ -136,6 +136,13 @@ The client tells you when a new version is out under **Help → Check for Update
 - Hundreds of bug fixes, including long-standing freezes
 - Tested on Windows, macOS and Linux; 217 saved games replayed after every change
 
+## Coming soon
+A taste of what is next — built and being finished, not playable in this build yet:
+- **War of the Jewels (beta).** hekmo's original fan scenario: the War of the Ring system taken back to the First Age, the wars of the Silmarils across Beleriand. The board, the armies, the Champions and Shadow Minions with their cards, and the four event decks are all in; still beta.
+- **Treason of Isengard 3.0 (pre-release).** Rafamir's expansion, with Gríma, his Whisperings, the new cards and the on-table tableau already in the client; the last details are being settled with Rafamir.
+- **3 and 4 player team games.** Real multiplayer, two players a side, built the proper server-client way — one authoritative host, the others join. Switched off until it is rock solid.
+- **Voice chat in the client.** Talk to your opponent as you play, carried over the same networking. In progress.
+
 ---
 
 *A fan-made client for a game published by Ares Games. Ownership of the original board game is
