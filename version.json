@@ -1,8 +1,11 @@
 {
-  "version": "11.2.189",
+  "version": "11.2.719",
   "major": 11,
   "minor": 2,
-  "patch": 189,
-  "build": 110,
-  "lastBuildTime": "2026-11-04T16:07:41Z"
+  "patch": 719,
+  "build": 640,
+  "assetsVersion": 2,
+  "lastBuildTime": "2026-11-20T22:41:07Z",
+  "minSafeJava": "21.0.12.1",
+  "javaAdvisory": "A security update for the bundled Java runtime is available (Java4Shell)."
 }
