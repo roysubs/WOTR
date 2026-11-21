@@ -14,7 +14,9 @@ Unzip and run: **Java is included** (Windows, macOS Intel and Apple Silicon, Lin
 nothing else to install. One download, works on every system. Your old logs and saved games
 load exactly as before.
 
-The client tells you when a new version is out under **Help → Check for Updates**, and it keeps its own built-in Java up to date (**Help → Update bundled Java**), so security fixes such as the recent Java 21 one reach you without a new download.
+**Download once, then it updates itself.** The game checks for a new version when it starts (and once a day while it is open) and offers it in a small window, never in the middle of a network game. Most updates are a **quick update of about 2 MB**: digitally signed, checked before use, and one click to restart onto the new version, with small card-text, picture and sound fixes riding along. Only when a version changes a lot of the game's pictures or sounds will it ask you for the full download again. It keeps its own built-in Java up to date too (**Help → Update bundled Java**), so security fixes such as the recent Java 21 one reach you without a new download.
+
+*Releases marked "quick update" are the small automatic ones; new players should take the latest **Full** release (the button above).*
 
 ---
 
@@ -22,6 +24,12 @@ The client tells you when a new version is out under **Help → Check for Update
 
 Everything below is new in the Isengard Edition. Take the illustrated **Welcome Tour** (it opens from What's New, or **Help → New Features Tour**) for a walk through it.
 
+- **It updates itself.** The game checks for a new version at startup and once a day and offers it in a small window, never in the middle of a network game. Most updates are a **quick update of about 2 MB**, digitally signed and checked before use, with card-text, picture and sound fixes riding along; **Restart now** brings you straight back on the new version. The built-in Java keeps itself patched too, and double-clicking **wotr.jar** now works even if your computer's own Java is old: it reopens the game on its built-in Java.
+- **The Free Peoples' battle-stoppers.** Play **Scouts** as a field defender and the Battle box offers **Scouts: retreat** (or **into siege** at a Stronghold) before the Combat roll; play **The Forest Is Rising** or **The Terror of the Dead** and it offers to end the battle at round end. Never when the card was cancelled (Swarm of Bats, Lord of the Bats, either Brand), and a cancelled card is struck through with what cancelled it.
+- **The rules that bite, enforced exactly.** **Captain of Despair** works as the card says: from the action after it is played, every Shadow Character die goes to the Hunt Box; it can only be played with the Witch-king in play and Gollum not the Guide; and both players are told the moment it must be discarded. **The Black Captain waits for war**, and `att` refuses an Army that is not At War, like the Preview Pane.
+- **No die, no card.** Double-click a card with no Action die in Current Action and nothing happens, with a private note only you see, so an off-turn slip never shows your opponent a card.
+- **Over 50 ways to play, from one New Game window.** Every expansion alone or together, the official scenarios and the fan-made variants: over 50 unique game combinations, and over 100 with the optional extras such as Cities.
+- **Solo plays like the real thing.** In a Kings of Middle-earth solo game, Act as the Free Peoples and the Hunt Pool shows only tile backs; Act as the Shadow and you see the faces, exactly as each side sees it online.
 - **Type anywhere, and Ctrl+Space.** The chat line is a command line: `find fang` flashes Fangorn on the map, `att lorien` starts a battle, `#valinor` opens an Event card with its Almanac notes, `!valour` shows a Combat card's ruling. **Ctrl+Space** opens a palette of every command; **View → Chat Commands** has a Getting Started page.
 - **One button for the whole turn.** **NEW TURN** recovers your dice and draws your cards, then becomes **AD ROLL** (rolls your Action dice; the Shadow's Eyes go straight to the Hunt Box), then **PASS** whenever you hold fewer unused dice than your opponent. Tiny **C / S / F / F+** buttons draw a card in one click.
 - **Your dice, right every turn.** The extra dice for Gandalf the White, Aragorn, Saruman, the Witch-king and the Mouth of Sauron join by themselves, and a popup explains every die you have and why, with the Hunt Allocation minimum and maximum for the Shadow.
@@ -42,7 +50,7 @@ Everything below is new in the Isengard Edition. Take the illustrated **Welcome 
 
 ## A guided tour
 
-- **The Welcome Tour, rebuilt.** Twenty-three illustrated pages on the things you will use every game: chat commands and the Ctrl+Space palette, the one-button turn, the Battle and Hunt helpers, cards and the Almanac, solo play, replays and more, most with a **Try it** button that opens the real feature. It opens from the What's New window (**Take the tour**), or any time from Help › New Features Tour.
+- **The Welcome Tour, rebuilt.** Twenty-eight illustrated pages on the things you will use every game: the View menu and Options, themes, every expansion and variant and their Helpers, chat commands and the Ctrl+Space palette, a whole battle typed from the chat box, the rules the client enforces, online play, the Game Clock, self-updating, the one-button turn, the Battle and Hunt helpers, cards and the Almanac, solo play, replays and more, most with a **Try it** button that opens the real feature. It opens from the What's New window (**Take the tour**), or any time from Help › New Features Tour.
 
 ## Start each turn in one click
 
