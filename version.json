@@ -1,15 +1,15 @@
 {
-  "version": "11.2.766",
+  "version": "11.2.819",
   "major": 11,
   "minor": 2,
-  "patch": 766,
-  "build": 687,
-  "lastBuildTime": "2026-11-21T20:28:21Z",
+  "patch": 819,
+  "build": 738,
+  "lastBuildTime": "2026-11-22T13:56:04Z",
   "minSafeJava": "21.0.12.1",
   "javaAdvisory": "A security update for the bundled Java runtime is available (Java4Shell).",
-  "assetsVersion": 5,
-  "jarUrl": "https://github.com/roysubs/WOTR/releases/download/v11.2.766/wotr.jar",
-  "jarSha256": "127fa34f6cb2fec868efa738240cb04be3ba8935f7d6fb7b449d40eb8ca24936",
-  "jarSig": "1b0f788987d66b87da438210a70b2520694e411455810c3b73eebc004554b3191b2cb1aae78b150e92688dedab24613edb95969d6ac79ad8373cd7b3dd81d40c",
+  "assetsVersion": 6,
+  "jarUrl": "https://github.com/roysubs/WOTR/releases/download/v11.2.819/wotr.jar",
+  "jarSha256": "cff8d7c1311dcd3491037cffd89ea3d6e45735db002351fc0949c0f1a66a4829",
+  "jarSig": "f9e4e57bc336fbe20cf333ef7d8ae587480ca3f4440854e0431d0ac186790a4032245798123e996cfc12767b06c13380075b12e4956c5f690971ec805224e80a",
   "signKey": "302a300506032b657003210028f1c3faf2d154bcfe005002cfdbf61d1ea0d274d8675558a4c22d79c1ed3b02"
 }
