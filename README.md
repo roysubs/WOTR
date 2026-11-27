@@ -169,6 +169,7 @@ Everything below is new in the Isengard Edition. Take the illustrated **Welcome 
 
 ## Board helpers
 
+- **Event cards tell their story:** hold Shift over an Event card in your hand, over a card shown big in the Preview Pane, or over a card in the New Game add-on previews for its Tolkien lore: where the title or moment comes from in the books, and why it matters. All 174 cards, every expansion and the promos
 - **Region tooltips** (View › Hover tips): hover any region and a tooltip shows its name and Nation, a teaching aid, exact at every zoom. Over a City, Town or Stronghold it also shows the **type and VP value** (e.g. “Minas Tirith (Gondor - Stronghold, 2 VP)”)
 - **Keepers & Minions, rebuilt**: the LOME strip is now a vertical card like the Kings card, a row per character under a Free Peoples / Shadow heading with its **Level & Leadership** and its die, and now including **Strider (the Dúnadan)** and the **Witch-king (Chief of the Ringwraiths)**
 - **Compact card popup** (**Ctrl+[** Free, **Ctrl+]** Shadow): a tall list of the card names, **click or Enter pops a card out into its own small, always-on-top window** you can leave over the game to check a wording ◀▶ / wheel to spin through, Esc closes. The Toolkit way; Ctrl+/ still opens the full Reference. KOME cards now follow the list convention, Name (type), Combat card (initiative)
@@ -205,6 +206,7 @@ Everything below is new in the Isengard Edition. Take the illustrated **Welcome 
 
 ## Playing online, made easier
 
+- **Online play, put right in many places** (found by playing both seats of real network games): an attacked Nation really advances on the Political Track, No card no longer raises a false warning, both Battle boxes move on together, cards are discarded once, NEW TURN can no longer be missed, Synchronize only from a fresh game, and both players' End Game logs hold both hands
 - **The Play-on-Network dialog, redrawn:** your client version, game type and voice state shown at a glance
 - **A copyable virtual-LAN IP box,** and a foldable *Direct connection* section for router-forwarders
 - **ZeroTier / Hamachi install status** shown, with a clickable link to set one up
@@ -260,6 +262,9 @@ Everything below is new in the Isengard Edition. Take the illustrated **Welcome 
 - **Launchers named for your system:** *War of the Ring (Win).cmd*, *(Mac).command*, *(Linux).sh*
 
 ## Kings, Warriors and Lords of Middle-earth
+- **Kings of Middle-earth, simpler:** an Awakened Sovereign's real Ruler token sits in his space on the Kings card; hover it for the rules, click to use it, and it flips to its Dismay side for the Shadow when Dismay tokens are agreed. *It Is Not So Dark Here* and *Wisdom of Elrond* play themselves, and every Sovereign's tooltip says how to take Corruption off him or remove him once Corrupted
+- **Rules with other expansions, rewritten:** short and plain, every combination listed, the optional rules explained with what is on in your game
+- **Read the rules** buttons beside each expansion in the New Game window open its official rulebook
 - Every expansion has a floating overlay that never gets in your way, with everything you need to manage it, alone or together
 - Expansion cards in small windows: drag anywhere, fold, resize; all 16 table slots stay free (up from 14)
 - Kings card: Sovereigns' Level and Resistance, awakened silver, corrupted black, a square per Corruption tile
@@ -336,6 +341,7 @@ Everything below is new in the Isengard Edition. Take the illustrated **Welcome 
 - Ctrl+scroll zooms every page, pictures included
 
 ## Fair play
+- A sealed hand stays sealed: the hand-limit window never shows cards before the hand is opened, and a Combat card can only be chosen from your hand
 - All known exploits fixed
 - Dice and card draws cannot be steered by a tampered copy
 - Every command from the other side is checked; anything an honest client never sends is refused and recorded
