@@ -81,6 +81,72 @@ Everything below is new in the Isengard Edition. Take the illustrated **Welcome 
 
 ---
 
+## New card moments on the map
+
+- **Flocks of Crebain** are now real crows: solid black birds with broad flapping wings, splayed feathers, a wedge tail and a heavy beak
+- **Orc Patrol**: a band of hunched orcs, spears up and one torch flaring, tramps in and circles the Fellowship, then moves off
+- **Morgul Wound**: a pale Morgul-blade stabs down into the Fellowship, sticks there quivering in a cold green glow with frost cracking outwards, then melts away
+- **The Dark Door** (Warriors): while it is on the table, the mountain border between Erech and Helm's Deep, Westemnet and Edoras glows the pale green of the Dead Men, breathing slowly
+- **Hill-trolls** now goes to the table after its upgrades, like Olog-hai. Try them with **anim crebain**, **anim orcpatrol**, **anim morgul**
+
+## Retreat and Advance, moved for you
+
+- **Retreat** in the Battle box shows the Army and one button per legal adjacent region (no enemy Army, no enemy-controlled Settlement, even an empty one; a friendly Nation's region is fine even if not At War). The whole Army goes, Characters too; with WOME, Dunlendings and Spiders go with it, Free Peoples Factions stay, Corsairs are yours to move if the region allows. Then the attacker's **Advance** picker: everyone selected, Enter advances them all, untick any to leave behind. No Advance after a siege
+- **Hill-trolls** and the other muster cards fire again when played as their Event
+
+## Steadier over a long session
+
+- **New Game no longer leaks memory.** Every New Game kept the whole previous game in memory (about 20 MB, far more after a long game) until the client could run out; now each old game is released. The **Game Clock** is opt-in: it times and writes its log lines only when you show it or choose a timed game
+
+## Kings rules under Agreed Play
+
+- The Kings of Middle-earth optional rules (Visible Corruption tiles, Sequential draw, No Ruler tokens, Dismay tokens) are official and tournament rules, not house rules, so they are now agreed under **Game > Agreed Play settings**, with a button that ticks the tournament set. The window title shows them as KINGS RULES
+
+## More cards played for you
+
+- **Stormcrow**: refused unless the Fellowship or a Companion is inside a Free Peoples Nation that is not At War. The Shadow picks the Nation (only those that qualify) and moves it back a step; then the Free Peoples pick the Army and the Regular, Elite or Leader of that Nation to eliminate. The Shadow's Esc waits for that pick
+- **Three Rings for the Elven-Kings**: a Roll 3 dice button, then each 5+ takes back one Elven Ring, those out of play first, then those the Shadow holds (a Ring goes back to its own slot)
+- **Faramir's Rangers** now counts its hits, and its three dice no longer hang in Solo
+- **The Day Without Dawn**: the Free Peoples' Will of the West dice move to their card slot (gone at End Action), with a banner on both screens saying how many
+
+## Corsairs of Umbar, played for you
+
+- When the Shadow plays **Corsairs of Umbar**, moving dotted lines run from Umbar to the Corsair ship in the bay and on to the four Gondor coastal regions: grey to move, red where a Free Peoples Army waits. A picker shows the Umbar Army in a row (click a figure to leave it behind) and four buttons. A move sails straight there; an attack stages the Army beside the card as **Corsairs**, red lines lead to the target and the Battle box opens as *Corsairs attacks Dol Amroth*, with no Cease in a field battle and the retreat into a siege still offered (old school: no box). Whatever is still staged lands in the region at End Action
+
+## Heads-ups
+
+- **Both sides have rolled.** Once both sides have rolled their Action Dice in a turn, a banner on both screens says so and lists each side's faces, so nobody wonders whether they rolled
+- **Separated Companions.** When a Companion separated with his Guide ability during a Hunt, closing the Hunt reminds the Free Peoples they may move him
+- **Battle box Leader re-roll:** offers no more dice than the side's Leadership at the start of the round
+
+## Faster menus
+
+- **Every right-click and board menu is now much faster.** Menus open in their own small window, so moving the mouse over them no longer redraws the map underneath (the Political Track menu was the worst). The Political Track menu also shows each Nation's name in its colour
+
+## Sieges
+
+- **Downgrade to continue a siege.** When the besieger presses Continue, a window offers **Downgrade <Nation> Elite** for each Nation with an Elite in the besieging Army, **Continue without downgrade** (for Grond, Hammer of the Underworld, the Mouth, a Black Númenórean...) or **Cease the attack**. The defender's Stand & fight waits for that choice
+
+## The Hunt
+
+- **Esc finishes a resolved Hunt.** When only Done is left in the Hunt panel, Esc asks once ("Close the Hunt Resolution and end the action?", Yes by default) and does both: closes the Hunt and ends the action, moving the die into the Hunt Box
+- **Gollum's Guide abilities in the Hunt panel.** With Gollum as the Guide, two buttons: **ignore the Reveal icon** (standard numbered tiles; an Eye or a red Shadow Special tile still reveals) and **reveal, damage −1** (any tile, unless the Fellowship is already revealed or the tile reveals it, never in an unconquered Free Peoples City or Stronghold). The damage sum counts it, and both screens follow
+
+## Lore
+
+- **Event cards tell their story.** Hold **Shift** over an Event card in your hand, or over a card shown big in the Preview Pane, for its Tolkien lore: where the title or the moment comes from in the books, and why it matters in the War of the Ring. 172 cards, every expansion and the promos
+
+## Combat and the Political Track
+
+- **Online play, put right in seven places** (found by playing both seats of real network games). An attacked Nation now really moves on the Political Track online (before, it only flipped active and a puzzling "no longer supported" line appeared); the same fix covers Hunt tiles returned to the pool and the automatic muster moves. Pressing **No card** after the attacker has chosen a card no longer warns that your action "did not arrive correctly". When both sides play no card, both Battle boxes go on to the rolls (the attacker's used to wait at Reveal). A new round discards the old Combat cards once, not twice. The NEW TURN button can no longer be missed when the opponent finishes the turn very fast. At the End Game, the player who agrees now keeps a log with BOTH hands too. And the Bidding window no longer pops up when you load a game already under way
+- **The Mordor Track, told right.** Moving onto the last step no longer announces the Ring destroyed before the Hunt tile is drawn: the win waits until the Hunt is fully resolved. A red **Stop** tile now steps the Fellowship back when the Hunt is closed (or keep it there if a card cancelled the Stop). And only a **Character** or **Will of the West** die moves the Fellowship (Ctrl+M or Move Fellowship); the Event die that played *There Is Another Way*, *Swift Boats* or *Lifted up and Borne Far Away* is accepted, with a note at the play that it does not go to the Hunt Box
+- **A Nation going to war announces itself.** When an attack, a capture, or a Companion or Shadow Army reaching a Nation's lands moves it on the Political Track, a banner across the middle of the screen says which Nation moved and why (*The North goes to war: its Army was attacked in Old Forest Road*), its regions light up, and the counter is then deselected so the Preview Pane does not sit on it
+- **No leadership, no leader re-roll.** In the Battle helper, a side with zero Leadership no longer shows the Leadership re-roll step, which was only ever an empty click
+- **The Black Captain's Sorcerer, spelled out.** When the Sorcerer draw is owed, its button now reads **Cease / Continue + Sorcerer draw** (or **Stand / Retreat + Sorcerer draw** on the defence), because it both makes your round-end decision and draws the card. Press it instead of the plain Cease / Continue, or you make the decision and lose the draw
+- **Click a hand tab, see its pool.** Clicking the Free Peoples or Shadow hand tab also shows that side's Force Pool in the Preview Pane; clicking **The Hunt** shows the hunt tiles that have come out of the pool (the used tiles, or the removed tiles / the pool itself when none are used). Off via *View › Options › "Clicking a hand tab shows its pool"*
+- **Active-pool underline.** The Force Pool / Casualties buttons (both sides) and the Hunt Pool / Used / Removed buttons now get a blue underline on whichever one is showing in the Preview Pane, just like the hand tabs
+- **Ladder replay: download logs in bulk.** Replay a Ladder Game now has a tick box on each row and a **Download ticked** button that saves the chosen games' logs to a folder. Right-click one row then another ticks the range between them; **Tick shown** ticks everything your search leaves visible
+
 ## A guided tour
 
 - **The Welcome Tour, rebuilt.** Twenty-eight illustrated pages on the things you will use every game: the View menu and Options, themes, every expansion and variant and their Helpers, chat commands and the Ctrl+Space palette, a whole battle typed from the chat box, the rules the client enforces, online play, the Game Clock, self-updating, the one-button turn, the Battle and Hunt helpers, cards and the Almanac, solo play, replays and more, most with a **Try it** button that opens the real feature. It opens from the What's New window (**Take the tour**), or any time from Help › New Features Tour.
